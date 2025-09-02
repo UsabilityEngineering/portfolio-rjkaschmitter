@@ -1,4 +1,4 @@
-# UX Portfolio
+# Ryan Kaschmitter's UX Portfolio
 
 Ryan Kaschmitter's Journal
 
