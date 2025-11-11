@@ -2,10 +2,9 @@
 
 Ryan Kaschmitter 11/5/2025
 
-My sister's birthday was coming up recently and I needed to get her a gift. I know she likes items that are very homey and kind of give an Appalachian vibe. I remembered that Etsy was a good place to get things like that, so I decided to shop there. 
+My sister's birthday was coming up recently and I needed to get her a gift. I know she likes items that are very homey and kind of give an Appalachian vibe. I remembered that Etsy was a good place to get things like that, so I decided to shop there. I go to the website and I’m greeted by their homepage.
 
-I go to the website and I’m greeted by their homepage.
-<img width=200 src="https://github.com/user-attachments/assets/618d0f43-f3ab-41df-b8b5-60df4f4049f5"></img>
+<img width=400 height=400 src="https://github.com/user-attachments/assets/618d0f43-f3ab-41df-b8b5-60df4f4049f5"></img>
 
 
 The homepage follows normal **conventions** seen by a lot of different online shopping websites. The search bar is at the top, they have a hamburger menu to the left to specify the type of item you want, and they have featured items below. This made it very familiar and easy to navigate. I knew exactly what my first step was, which was to go to the search bar and give a vague description of what I was looking for. I typed in Appalachian home decor into the search bar. A list of results popped up but a lot of them were way out of my price range. Luckily, there a filter menu where you could set the price range
