@@ -9,10 +9,10 @@ My sister's birthday was coming up recently and I needed to get her a gift. I kn
 
 The homepage follows normal **conventions** seen by a lot of different online shopping websites. The search bar is at the top, they have a hamburger menu to the left to specify the type of item you want, and they have featured items below. This made it very familiar and easy to navigate. I knew exactly what my first step was, which was to go to the search bar and give a vague description of what I was looking for. I typed in Appalachian home decor into the search bar. A list of results popped up but a lot of them were way out of my price range. Luckily, there a filter menu where you could set the price range
 
-<img width=200 src="https://github.com/user-attachments/assets/d81871f3-d02b-4761-9805-9eb1b0aeb7b4"></img>
+<img width=600 height=600 src="https://github.com/user-attachments/assets/d81871f3-d02b-4761-9805-9eb1b0aeb7b4"></img>
 
 This made finding an item much easier for me, as I scanned the page and found something I think she would really like. I clicked the item and was brought to the description page. On the right side of the screen they had two huge **Call-To-Action** buttons. They immediately caught my attention and I noticed how the add to cart button was black and bold and the buy now button was white and less noticeable.   
-<img width="200" src="https://github.com/user-attachments/assets/e36002f7-9fdb-4538-a5f9-4e26bdd5250a"></img>
+<img width=600 height=600 src="https://github.com/user-attachments/assets/e36002f7-9fdb-4538-a5f9-4e26bdd5250a"></img>
  
 Nonetheless, I knew the next step was to buy it, so I clicked on the Buy it now button. I was then asked for my address and card information, which was the expected next steps and matched my **mental model.** While I was sitting on the page, ready to confirm my purchase, I realized I could put in the discount code from the description page. The only issue was that I forgot it. I had to go all the way back to the description page, copy the code and go all the way back. Thankfully, Etsy is **error tolerant**, they saved my address and my card information so I did not have to put all of it back in. I then put in the code and purchased the item.
 
